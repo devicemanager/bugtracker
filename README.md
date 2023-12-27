@@ -1,7 +1,7 @@
 devicemanager Bugtracker
 ======================
 
-This is just a fork of the [AcidAnthera](https://github.com/acidanthera/bugtracker) repo. Probably nothing exiting happening here. Just wanted to create my own build. 
+This is just a fork of the [devicemanager](https://github.com/devicemanager/bugtracker) repo. Probably nothing exiting happening here. Just wanted to create my own build. 
 
 #### Project Status
 
