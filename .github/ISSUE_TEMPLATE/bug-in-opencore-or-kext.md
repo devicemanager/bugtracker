@@ -15,7 +15,7 @@ Please stop and read this carefully. Otherwise your issue will be left **unanswe
 - Include OpenCore DEBUG log (refer to `Target` in Configuration.pdf).
 - Include Lilu DEBUG log (refer to `-liludbgall liludump=60` boot arguments in README).
 
-Issue tracker is _not_ a support forum, and if you have installation or usage problems, try asking your questions on [InsanelyMac.com](https://www.insanelymac.com/forum/73-developers-corner/) or [AppleLife.ru](https://applelife.ru/forums/xakintosh.67/). There could also be local communities providing Acidanthera Project support in your native language.
+Issue tracker is _not_ a support forum, and if you have installation or usage problems, try asking your questions on [InsanelyMac.com](https://www.insanelymac.com/forum/73-developers-corner/) or [AppleLife.ru](https://applelife.ru/forums/xakintosh.67/). There could also be local communities providing devicemanager Project support in your native language.
 
 For example, if you have an issue with AppleALC and you have not working sound, and you **cannot** offer new resources that fix the problem for you, you should go to the **support forums**. Here there are no people who create custom audio resources, or who deal with installation issues.
 

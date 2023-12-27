@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: OpenCore Support Forums
-    url: https://github.com/acidanthera/OpenCorePkg#discussion
+    url: https://github.com/devicemanager/OpenCorePkg#discussion
     about: Please ask OpenCore related questions here.
   - name: Lilu Support Forums
-    url: https://github.com/acidanthera/Lilu#discussion
+    url: https://github.com/devicemanager/Lilu#discussion
     about: Please ask Lilu related questions here.
