@@ -1,13 +1,7 @@
 devicemanager Bugtracker
 ======================
 
-Please file code-level issues regarding [devicemanager](https://github.com/devicemanager) projects here.
-
-#### Common Questions
-
-- In most cases you need to provide the debug log, for that follow the instructions in [English](https://github.com/devicemanager/AppleALC/wiki/Installation-and-usage) or [Russian](https://github.com/devicemanager/AppleALC/wiki/Установка-и-использование).
-- We have a guide on adding a new AppleALC codec in [English](https://github.com/devicemanager/AppleALC/wiki/Adding-codec-support) and [Russian](https://github.com/devicemanager/AppleALC/wiki/Добавление-нового-кодека) as well.
-- We have answers to most common AppleALC questions in [English](https://github.com/devicemanager/AppleALC/wiki/Frequently-Asked-Questions) and [Russian](https://github.com/devicemanager/AppleALC/wiki/Часто-задаваемые-вопросы).
+This is just a fork of the [AcidAnthera](https://github.com/acidanthera/bugtracker) repo. Probably nothing exiting happening here. Just wanted to create my own build. 
 
 #### Project Status
 
